@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./src/login.gif"><br> 
+  <img src="./src/assets/videos//rocketshoes.gif"><br> 
 </h1>
 
  ## 🏁 Tópicos
